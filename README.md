@@ -8,7 +8,7 @@
 <details>
 <summary> About Me </summary>
   
-### Hi there 👋</summary>
+### Hi there 👋
   
 <!--
 **kasurashan/kasurashan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</summary>
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c1c6ee,10:bfafdd,30:92b8c3,75:d3e0cb,100:eddff6&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
